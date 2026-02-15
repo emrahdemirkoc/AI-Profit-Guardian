@@ -44,9 +44,10 @@ It doesn't just look at sales; it calculates the exact **Net Profit** for every 
 4.  Connect **OpenAI** and **Slack**.
 5.  Stop celebrating revenue; start celebrating profit.
 
----
+
 
 ## 📞 Contact & Support
+
 
 If you are interested in this project or would like to discuss custom **n8n automation solutions** for your business, feel free to reach out.
 
