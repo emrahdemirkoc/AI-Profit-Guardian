@@ -43,6 +43,7 @@ It doesn't just look at sales; it calculates the exact **Net Profit** for every 
 3.  Configure the **JavaScript Node** if you have extra custom fees.
 4.  Connect **OpenAI** and **Slack**.
 5.  Stop celebrating revenue; start celebrating profit.
+6.  
 
 
 
